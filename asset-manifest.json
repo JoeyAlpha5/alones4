@@ -1,15 +1,14 @@
 {
-  "main.css": "/alones4/static/css/main.716dc277.chunk.css",
-  "main.js": "/alones4/static/js/main.7590ac02.chunk.js",
-  "main.js.map": "/alones4/static/js/main.7590ac02.chunk.js.map",
+  "main.css": "/alones4/static/css/main.4a1200dc.chunk.css",
+  "main.js": "/alones4/static/js/main.5d0a93c3.chunk.js",
+  "main.js.map": "/alones4/static/js/main.5d0a93c3.chunk.js.map",
   "runtime~main.js": "/alones4/static/js/runtime~main.b67fb809.js",
   "runtime~main.js.map": "/alones4/static/js/runtime~main.b67fb809.js.map",
   "static/js/2.de96fab6.chunk.js": "/alones4/static/js/2.de96fab6.chunk.js",
   "static/js/2.de96fab6.chunk.js.map": "/alones4/static/js/2.de96fab6.chunk.js.map",
   "index.html": "/alones4/index.html",
-  "precache-manifest.22da1af2aba856891f4c7caf6b6836d4.js": "/alones4/precache-manifest.22da1af2aba856891f4c7caf6b6836d4.js",
+  "precache-manifest.ad831bb1be017f173828f47f7f0d3e9c.js": "/alones4/precache-manifest.ad831bb1be017f173828f47f7f0d3e9c.js",
   "service-worker.js": "/alones4/service-worker.js",
-  "static/css/main.716dc277.chunk.css.map": "/alones4/static/css/main.716dc277.chunk.css.map",
-  "static/media/App.css": "/alones4/static/media/background.3e99105a.jpg",
+  "static/css/main.4a1200dc.chunk.css.map": "/alones4/static/css/main.4a1200dc.chunk.css.map",
   "static/media/logo.svg": "/alones4/static/media/logo.5d5d9eef.svg"
 }
