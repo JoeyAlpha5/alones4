@@ -1,5 +1,5 @@
 {
-  "main.css": "/alones4/static/css/main.4a1200dc.chunk.css",
+  "main.css": "/alones4/static/css/main.48d3e082.chunk.css",
   "main.js": "/alones4/static/js/main.5d0a93c3.chunk.js",
   "main.js.map": "/alones4/static/js/main.5d0a93c3.chunk.js.map",
   "runtime~main.js": "/alones4/static/js/runtime~main.b67fb809.js",
@@ -7,8 +7,8 @@
   "static/js/2.de96fab6.chunk.js": "/alones4/static/js/2.de96fab6.chunk.js",
   "static/js/2.de96fab6.chunk.js.map": "/alones4/static/js/2.de96fab6.chunk.js.map",
   "index.html": "/alones4/index.html",
-  "precache-manifest.ad831bb1be017f173828f47f7f0d3e9c.js": "/alones4/precache-manifest.ad831bb1be017f173828f47f7f0d3e9c.js",
+  "precache-manifest.61017f3270bd3fe0fdad402148682189.js": "/alones4/precache-manifest.61017f3270bd3fe0fdad402148682189.js",
   "service-worker.js": "/alones4/service-worker.js",
-  "static/css/main.4a1200dc.chunk.css.map": "/alones4/static/css/main.4a1200dc.chunk.css.map",
+  "static/css/main.48d3e082.chunk.css.map": "/alones4/static/css/main.48d3e082.chunk.css.map",
   "static/media/logo.svg": "/alones4/static/media/logo.5d5d9eef.svg"
 }
