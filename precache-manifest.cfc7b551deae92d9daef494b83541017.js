@@ -20,19 +20,19 @@ self.__precacheManifest = [
     "url": "/alones4/static/js/runtime~main.b67fb809.js"
   },
   {
-    "revision": "59c93aae3c53bee14a63",
-    "url": "/alones4/static/js/main.a493dd6c.chunk.js"
+    "revision": "6b6317da3c600e839f62",
+    "url": "/alones4/static/js/main.e989205f.chunk.js"
   },
   {
     "revision": "b680ecaeaadbd4617471",
     "url": "/alones4/static/js/2.e7f63f66.chunk.js"
   },
   {
-    "revision": "59c93aae3c53bee14a63",
-    "url": "/alones4/static/css/main.2f18ad62.chunk.css"
+    "revision": "6b6317da3c600e839f62",
+    "url": "/alones4/static/css/main.7c202271.chunk.css"
   },
   {
-    "revision": "0da63f2e46feada30990de3c3764abd5",
+    "revision": "871d7120b637537783ec7b54b16690a4",
     "url": "/alones4/index.html"
   }
 ];
